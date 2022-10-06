@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DiegoG73
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Google
+- 👋 Hi, I’m Diego Guzmán
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JavaScript, HTML, CSS, Vue, React & Angular
+- 💞️ I’m looking to collaborate in your company
 - 📫 How to reach me oropezaeduardo442@gmail.com
 
 <!---
