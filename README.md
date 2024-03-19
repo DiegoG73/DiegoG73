@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, i'm Diego Guzmàn 👋</h1>
 </div>
-<img src="https://imgur.com/a/OHEnHuW">
+<img src="https://imgur.com/gallery/I88tZtQ">
 
 [![YouTube Channel Subscribers](https://www.youtube.com/@gocoding73/featured)]
 ## About me
