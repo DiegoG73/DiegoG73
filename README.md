@@ -3,12 +3,12 @@
 </div>
 <img src="https://imgur.com/gallery/I88tZtQ">
 
-[![YouTube Channel Subscribers](https://www.youtube.com/@gocoding73/featured)]
+[![ My YouTube Channel](https://www.youtube.com/@gocoding73/)]
 ## About me
 
 - 🧑‍💻 BackEnd Web Developer 
 - 📲 Studying to be a mobile developer 
-- 🎥 I'm showing you my way to get a job on my YouTube channel [Youtube](https://youtube.com/aristidevs?sub_confirmation=1)
+- 🎥 I'm showing you my way to get a job on my YouTube channel [Youtube](https://youtube.com/@gocoding73)
 - 🐈‍⬛ I LOVE BLACK CATS
 <br>
 
